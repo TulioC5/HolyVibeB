@@ -1,6 +1,8 @@
 'use client';
 
 import React, { useState } from 'react';
+import { Analytics } from '@vercel/analytics/next';
+
 import { Calendar, MapPin, Clock, Mail, Phone, Instagram, Facebook, ArrowLeft, Music, Users, Sparkles } from 'lucide-react';
 
 interface Event {
