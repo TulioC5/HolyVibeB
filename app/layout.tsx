@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "HOLY VIBE",
   description: "HV 2025",
+   icons: {
+    icon: "/images/logo.jpg",
+    },
 };
 
 export default function RootLayout({

@@ -384,7 +384,7 @@ export default function HolyVibeBlog() {
                   <Phone className="w-6 h-6 text-purple-500 flex-shrink-0 mt-1" />
                   <div>
                     <p className="font-semibold text-gray-800">Teléfono</p>
-                    <p className="text-gray-600">+502 1234-5678</p>
+                    <p className="text-gray-600">+502 3353-8809</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-4">
